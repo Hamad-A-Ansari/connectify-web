@@ -4,6 +4,7 @@ const FOOTER_LINKS = [
   { label: "Privacy Policy", href: "/privacy-policy" },
   { label: "Terms of Service", href: "/terms-of-service" },
   { label: "Delete Account", href: "/delete-account" },
+  { label: "Child Safety", href: "/child-safety" },
 ];
 
 const CONTACT_EMAIL = "hamad.ansarif90@gmail.com";

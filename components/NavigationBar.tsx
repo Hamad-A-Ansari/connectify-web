@@ -14,6 +14,7 @@ const NAV_LINKS: NavLink[] = [
   { label: "Privacy Policy", href: "/privacy-policy" },
   { label: "Terms of Service", href: "/terms-of-service" },
   { label: "Delete Account", href: "/delete-account" },
+  { label: "Child Safety", href: "/child-safety" },
   { label: "Support", href: "/support" },
 ];
 
