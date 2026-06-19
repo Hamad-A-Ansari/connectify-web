@@ -126,9 +126,9 @@ export default function PrivacyPolicyPage() {
               Children&apos;s Privacy
             </h2>
             <p className="text-gray-300">
-              Connectify is not directed at children under 13 years of age. We
+              Connectify is not directed at children under 15 years of age. We
               do not knowingly collect personal information from children under
-              13. If we become aware that a child under 13 has provided us with
+              15. If we become aware that a child under 15 has provided us with
               personal data, we will take steps to delete that information.
             </p>
           </div>
@@ -153,11 +153,11 @@ export default function PrivacyPolicyPage() {
               If you have any questions about this Privacy Policy or wish to make
               a privacy inquiry, please contact us at{" "}
               <a
-                href="mailto:hamadansari.dev@gmail.com"
+                href="mailto:hamad.ansarif90@gmail.com"
                 className="text-[#6C63FF] underline"
-                aria-label="Send email to hamadansari.dev@gmail.com for privacy inquiries"
+                aria-label="Send email to hamad.ansarif90@gmail.com for privacy inquiries"
               >
-                hamadansari.dev@gmail.com
+                hamad.ansarif90@gmail.com
               </a>
               .
             </p>

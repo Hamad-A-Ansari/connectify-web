@@ -19,12 +19,15 @@ export default function DeleteAccountPage() {
         <h1 className="text-4xl font-bold text-white">Delete Account</h1>
         <p className="text-gray-300">
           We respect your right to control your data. If you wish to delete your
-          Connectify account, you can do so directly within the app or by
+          Connectify account, you can do so directly by
           contacting us via email.
         </p>
 
         <div className="space-y-8">
-          <div>
+          
+          {/* Commented Out . V2 Changes */}
+          
+          {/* <div>
             <h2 className="text-2xl font-semibold text-white mb-4">
               Delete via the App
             </h2>
@@ -33,7 +36,7 @@ export default function DeleteAccountPage() {
               Follow the on-screen prompts to confirm the deletion of your
               account and all associated data.
             </p>
-          </div>
+          </div> */}
 
           <div>
             <h2 className="text-2xl font-semibold text-white mb-4">
@@ -43,11 +46,11 @@ export default function DeleteAccountPage() {
               If you are unable to delete your account through the app, you can
               request manual deletion by emailing us at{" "}
               <a
-                href="mailto:hamadansari.dev@gmail.com"
+                href="mailto:hamad.ansarif90@gmail.com"
                 className="text-[#6C63FF] underline"
-                aria-label="Send email to hamadansari.dev@gmail.com to request account deletion"
+                aria-label="Send email to hamad.ansarif90@gmail.com to request account deletion"
               >
-                hamadansari.dev@gmail.com
+                hamad.ansarif90@gmail.com
               </a>
               . Please include the email address associated with your account so
               we can verify your identity and process the request.
@@ -78,8 +81,8 @@ export default function DeleteAccountPage() {
             </h2>
             <p className="text-gray-300">
               Your data is deleted within 30 days of the request. During this
-              period, your account will be deactivated and your content will no
-              longer be visible to other users.
+              period, your account will be visibe and your content will
+               be visible to other users.
             </p>
           </div>
         </div>

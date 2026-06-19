@@ -6,7 +6,7 @@ const FOOTER_LINKS = [
   { label: "Delete Account", href: "/delete-account" },
 ];
 
-const CONTACT_EMAIL = "hamadansari.dev@gmail.com";
+const CONTACT_EMAIL = "hamad.ansarif90@gmail.com";
 
 export default function Footer() {
   return (

@@ -27,20 +27,20 @@ describe("Footer", () => {
   it("renders the contact email link with correct mailto href", () => {
     render(<Footer />);
     const link = screen.getByRole("link", {
-      name: "Send email to hamadansari.dev@gmail.com",
+      name: "Send email to hamad.ansarif90@gmail.com",
     });
     expect(link).toBeInTheDocument();
-    expect(link).toHaveAttribute("href", "mailto:hamadansari.dev@gmail.com");
+    expect(link).toHaveAttribute("href", "mailto:hamad.ansarif90@gmail.com");
   });
 
   it("has aria-label on the email link", () => {
     render(<Footer />);
     const link = screen.getByRole("link", {
-      name: "Send email to hamadansari.dev@gmail.com",
+      name: "Send email to hamad.ansarif90@gmail.com",
     });
     expect(link).toHaveAttribute(
       "aria-label",
-      "Send email to hamadansari.dev@gmail.com"
+      "Send email to hamad.ansarif90@gmail.com"
     );
   });
 });

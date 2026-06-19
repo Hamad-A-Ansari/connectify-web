@@ -10,7 +10,7 @@ describe("Support Page", () => {
       name: /hamadansari\.dev@gmail\.com/,
     });
     expect(emailLink).toBeInTheDocument();
-    expect(emailLink).toHaveAttribute("href", "mailto:hamadansari.dev@gmail.com");
+    expect(emailLink).toHaveAttribute("href", "mailto:hamad.ansarif90@gmail.com");
   });
 
   it("renders all 5 FAQ questions", () => {

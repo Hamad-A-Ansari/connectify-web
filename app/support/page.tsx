@@ -24,11 +24,11 @@ export default function SupportPage() {
           <p className="text-gray-300">
             If you need help or have any questions, reach out to us at{" "}
             <a
-              href="mailto:hamadansari.dev@gmail.com"
+              href="mailto:hamad.ansarif90@gmail.com"
               className="text-[#6C63FF] underline"
-              aria-label="Send email to hamadansari.dev@gmail.com for support"
+              aria-label="Send email to hamad.ansarif90@gmail.com for support"
             >
-              hamadansari.dev@gmail.com
+              hamad.ansarif90@gmail.com
             </a>
             .
           </p>

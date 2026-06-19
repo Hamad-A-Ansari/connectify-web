@@ -1,9 +1,9 @@
 export const FAQ_ITEMS = [
-  {
-    question: "How do I reset my password?",
-    answer:
-      'Use "Forgot Password" on the login screen, or update via Profile → Settings in the app.',
-  },
+  // {
+  //   question: "How do I reset my password?",
+  //   answer:
+  //     'Use "Forgot Password" on the login screen, or update via Profile → Settings in the app.',
+  // },
   {
     question: "How do I report inappropriate content?",
     answer:
@@ -21,6 +21,6 @@ export const FAQ_ITEMS = [
   {
     question: "How do I delete my account?",
     answer:
-      "Go to Profile → Settings → Delete Account, or email us for manual deletion.",
+      "Email us for manual deletion.",
   },
 ];

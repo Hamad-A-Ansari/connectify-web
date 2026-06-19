@@ -31,9 +31,9 @@ export default function TermsOfServicePage() {
               Eligibility
             </h2>
             <p className="text-gray-300">
-              You must be 13 years of age or older to use Connectify. By
+              You must be 15 years of age or older to use Connectify. By
               creating an account, you confirm that you meet this age
-              requirement. If we learn that a user is under 13, we will
+              requirement. If we learn that a user is under 15, we will
               terminate their account immediately.
             </p>
           </div>
@@ -142,11 +142,11 @@ export default function TermsOfServicePage() {
               If you have any questions about these Terms of Service, please
               contact us at{" "}
               <a
-                href="mailto:hamadansari.dev@gmail.com"
+                href="mailto:hamad.ansarif90@gmail.com"
                 className="text-[#6C63FF] underline"
-                aria-label="Send email to hamadansari.dev@gmail.com for terms of service inquiries"
+                aria-label="Send email to hamad.ansarif90@gmail.com for terms of service inquiries"
               >
-                hamadansari.dev@gmail.com
+                hamad.ansarif90@gmail.com
               </a>
               .
             </p>
